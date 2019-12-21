@@ -24,7 +24,7 @@ const pictures = [
     imageUrl: 'https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/sepia-tone-of-rusted-international-harvester-pickup-truck-in-a-rural-landscape-randall-nyhof.jpg',
     direction: 'landscape',
     filter: 'sepia',
-    occasion: 'birthday',
+    occasion: 'family',
     location: 'farm',
   },
   {

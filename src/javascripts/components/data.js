@@ -1,0 +1,81 @@
+const pictures = [
+  {
+    imageUrl: '',
+    direction: '',
+    filter: '',
+    occasion: '',
+    location: '',
+  },
+  {
+    imageUrl: '',
+    direction: '',
+    filter: '',
+    occasion: '',
+    location: '',
+  },
+  {
+    imageUrl: '',
+    direction: '',
+    filter: '',
+    occasion: '',
+    location: '',
+  },
+  {
+    imageUrl: '',
+    direction: '',
+    filter: '',
+    occasion: '',
+    location: '',
+  },
+  {
+    imageUrl: '',
+    direction: '',
+    filter: '',
+    occasion: '',
+    location: '',
+  },
+  {
+    imageUrl: '',
+    direction: '',
+    filter: '',
+    occasion: '',
+    location: '',
+  },
+  {
+    imageUrl: '',
+    direction: '',
+    filter: '',
+    occasion: '',
+    location: '',
+  },
+  {
+    imageUrl: '',
+    direction: '',
+    filter: '',
+    occasion: '',
+    location: '',
+  },
+  {
+    imageUrl: '',
+    direction: '',
+    filter: '',
+    occasion: '',
+    location: '',
+  },
+  {
+    imageUrl: '',
+    direction: '',
+    filter: '',
+    occasion: '',
+    location: '',
+  },
+  {
+    imageUrl: '',
+    direction: '',
+    filter: '',
+    occasion: '',
+    location: '',
+  },
+];
+
+export default { pictures };
